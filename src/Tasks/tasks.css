@@ -1,7 +1,7 @@
 .tasks {
     list-style-type: none;
-    margin:0px;
-    padding:0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .tasks__task {
@@ -12,7 +12,7 @@
     border-bottom: 1px solid var(--border-color);
 }
 
-.tasks--hideDone .tasks__task--done {
+.tasks--hideDoneTasks .tasks__task--done {
     display: none;
 }
 

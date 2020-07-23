@@ -6,7 +6,7 @@ const Form = () => {
         <form className="addTaskForm">
             <input placeholder="Co jest do zrobienia?" className="addTaskForm__newTaskName"/>
             <button className="addTaskForm__addTaskButton">
-                    Dodaj zadanie
+                Dodaj zadanie
             </button>
         </form>
     );

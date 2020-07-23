@@ -1,11 +1,11 @@
 import React from 'react';
 import './section.css';
-import Header from '../Header';
+import SectionHeader from '../SectionHeader';
 
 const Section = ({name, children, extraHeaderContents }) => {
     return (
         <section className="section">
-            <Header className="section__sectionHeader" name={name} extraHeaderContents={extraHeaderContents} />
+            <SectionHeader name={name} extraHeaderContents={extraHeaderContents} />
             <main className="section__sectionBody">
                 {children}
             </main>

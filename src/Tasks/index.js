@@ -1,9 +1,9 @@
 import React from 'react';
 import './tasks.css';
 
-const Tasks = ({ taskList }) => {
+const Tasks = ({ taskList, hideDoneTasks }) => {
     return (
-        <ul className="tasks">
+        <ul className={`tasks${hideDoneTasks ? ' tasks--hideDoneTasks' : ''}`}>
             {
                 taskList.map(({ id, name, done }) =>
                     (

@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Header = ({ name, extraHeaderContents }) => {
+const SectionHeader = ({ name, extraHeaderContents }) => {
     return (
         <header className="section__sectionHeader">
             <h2 className="section__sectionHeaderText">{name}</h2>
-            {extraHeaderContents ? extraHeaderContents : ''}
+            {extraHeaderContents}
         </header>
     )
 }
 
-export default Header;
+export default SectionHeader;
