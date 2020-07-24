@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/simpleTaskList-react/static/css/main.4efe452b.chunk.css",
-    "main.js": "/simpleTaskList-react/static/js/main.c560245e.chunk.js",
-    "main.js.map": "/simpleTaskList-react/static/js/main.c560245e.chunk.js.map",
-    "runtime-main.js": "/simpleTaskList-react/static/js/runtime-main.44f5c7e1.js",
-    "runtime-main.js.map": "/simpleTaskList-react/static/js/runtime-main.44f5c7e1.js.map",
-    "static/js/2.91b1f8d1.chunk.js": "/simpleTaskList-react/static/js/2.91b1f8d1.chunk.js",
-    "static/js/2.91b1f8d1.chunk.js.map": "/simpleTaskList-react/static/js/2.91b1f8d1.chunk.js.map",
-    "index.html": "/simpleTaskList-react/index.html",
-    "precache-manifest.dcdb623242b38eff48b3d048080a064f.js": "/simpleTaskList-react/precache-manifest.dcdb623242b38eff48b3d048080a064f.js",
-    "service-worker.js": "/simpleTaskList-react/service-worker.js",
-    "static/css/main.4efe452b.chunk.css.map": "/simpleTaskList-react/static/css/main.4efe452b.chunk.css.map",
-    "static/js/2.91b1f8d1.chunk.js.LICENSE.txt": "/simpleTaskList-react/static/js/2.91b1f8d1.chunk.js.LICENSE.txt"
+    "main.css": "/simpletasklist-react/static/css/main.0466656e.chunk.css",
+    "main.js": "/simpletasklist-react/static/js/main.80f35e55.chunk.js",
+    "main.js.map": "/simpletasklist-react/static/js/main.80f35e55.chunk.js.map",
+    "runtime-main.js": "/simpletasklist-react/static/js/runtime-main.04dc6f63.js",
+    "runtime-main.js.map": "/simpletasklist-react/static/js/runtime-main.04dc6f63.js.map",
+    "static/js/2.a2eeb372.chunk.js": "/simpletasklist-react/static/js/2.a2eeb372.chunk.js",
+    "static/js/2.a2eeb372.chunk.js.map": "/simpletasklist-react/static/js/2.a2eeb372.chunk.js.map",
+    "index.html": "/simpletasklist-react/index.html",
+    "precache-manifest.1214cde298c4bbc4de5a9199c599dedd.js": "/simpletasklist-react/precache-manifest.1214cde298c4bbc4de5a9199c599dedd.js",
+    "service-worker.js": "/simpletasklist-react/service-worker.js",
+    "static/css/main.0466656e.chunk.css.map": "/simpletasklist-react/static/css/main.0466656e.chunk.css.map",
+    "static/js/2.a2eeb372.chunk.js.LICENSE.txt": "/simpletasklist-react/static/js/2.a2eeb372.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44f5c7e1.js",
-    "static/js/2.91b1f8d1.chunk.js",
-    "static/css/main.4efe452b.chunk.css",
-    "static/js/main.c560245e.chunk.js"
+    "static/js/runtime-main.04dc6f63.js",
+    "static/js/2.a2eeb372.chunk.js",
+    "static/css/main.0466656e.chunk.css",
+    "static/js/main.80f35e55.chunk.js"
   ]
 }
